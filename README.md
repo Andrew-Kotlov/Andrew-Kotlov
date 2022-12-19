@@ -3,11 +3,9 @@
 * 📫 Email: andrewkotlov48@gmail.com
 ____
 ### **Сontacts**
-<a href="https://t.me/kirjen"> <img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034639-stock-illustration-paper-airplane-icons-vector.jpg" width="35" height="35"></a>
-<a href="https://www.instagram.com/curlykirj/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="35" height="35"></a>
-<div>
-<a href="https://www.codewars.com/users/Kirjen"><img src="https://www.codewars.com/users/Kirjen/badges/micro"></a>
-</div>
+<a href="https://t.me/andrewkotlov"> <img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034639-stock-illustration-paper-airplane-icons-vector.jpg" width="35" height="35"></a>
+<a href="https://www.instagram.com/andrewkotlov/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="35" height="35"></a>
+
 
 
 _____
@@ -31,19 +29,3 @@ _____
  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"></a>
 </div>
 
-<!--
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KirjenK&theme=ayu-light&hide_border=true)](https://git.io/streak-stats)
--->
-<!--
-**KirjenK/KirjenK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
