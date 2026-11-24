@@ -1,33 +1,34 @@
-### **Hello! I'm Andrew, Web-developer!**
-* 🔭 WebDev, photo/video and love cat
-* 📫 Email: andrewkotlov48@gmail.com
-____
-### **Сontacts**
-<a href="https://t.me/andrewkotlov"> <img src="https://st3.depositphotos.com/4141023/14403/v/450/depositphotos_144034639-stock-illustration-paper-airplane-icons-vector.jpg" width="35" height="35"></a>
-<a href="https://www.instagram.com/andrewkotlov/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/2048px-Instagram.svg.png" width="35" height="35"></a>
+## Hi, I'm Andrew 👋
 
+**Learning DevOps** — Linux, containers, automation and troubleshooting.  
+Previously studied frontend development.
 
+### DevOps · hands-on
 
-_____
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="34" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="34" height="34"/>
+</p>
 
+<sub>Also practiced: systemd · Linux networking · Zabbix</sub>
 
-###  Languages and Tools :hammer_and_wrench:
-<div>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"></a>
- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"></a>
- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="Css5" alt="CSS5" width="40" height="40"></a>
- 
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="node.js" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="PS" alt="PS" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"></a>
- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/Andrew-Kotlov/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original-wordmark.svg" title="docker" alt="slack" width="40" height="40"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/Andrew-Kotlov/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="docker" alt="VSCode" width="40" height="40"></a>
-</div>
+### Frontend · background
 
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="30" height="30"/>
+</p>
+
+### Next
+
+Kubernetes · Terraform · Ansible · CI/CD  
+<sub>I'll add more icons as I practice each technology.</sub>
+
+[Telegram](https://t.me/andrewkotlov) · [Email](mailto:andrewkotlov48@gmail.com)
