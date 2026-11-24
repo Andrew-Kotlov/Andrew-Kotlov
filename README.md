@@ -1,9 +1,8 @@
 ## Hi, I'm Andrew 👋
 
-**Learning DevOps** — Linux, containers, automation and troubleshooting.  
-Previously studied frontend development.
+Linux · Docker · Git · Monitoring · Networking · Web Development
 
-### DevOps · hands-on
+### DevOps & Infrastructure
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" height="34"/>
@@ -14,9 +13,9 @@ Previously studied frontend development.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="34" height="34"/>
 </p>
 
-<sub>Also practiced: systemd · Linux networking · Zabbix</sub>
+<sub>systemd · Linux networking · Zabbix</sub>
 
-### Frontend · background
+### Web Development
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="30" height="30"/>
@@ -25,10 +24,5 @@ Previously studied frontend development.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="30" height="30"/>
 </p>
-
-### Next
-
-Kubernetes · Terraform · Ansible · CI/CD  
-<sub>I'll add more icons as I practice each technology.</sub>
 
 [Telegram](https://t.me/andrewkotlov) · [Email](mailto:andrewkotlov48@gmail.com)
